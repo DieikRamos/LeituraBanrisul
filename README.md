@@ -17,4 +17,4 @@ Para alterar as cidades que serão consultadas é necessario alterar a array de 
     var cidades = ["Rio Grande"];
     var cidades = ["Porto Alegre", "Gravatai", "Canoas"];
 
-O arquivo com os resultados fica armazenado na pasta do projeto com o nome de "resultados.csv".
+O arquivo com os resultados fica armazenado na pasta do projeto com o nome de "resultado.csv".
