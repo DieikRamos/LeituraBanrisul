@@ -1,5 +1,5 @@
 # LeituraBanrisul
-Leitura dos Credenciados da Banrisul Cartões para Dentro de Arquivo CSV
+Leitura dos Credenciados da Banrisul Cartões para dentro de arquivo resultado.csv
 
 Para executar é necessario executar os seguintes comandos:
 
